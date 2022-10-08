@@ -1,0 +1,78 @@
+layout: stacked
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  sort_by options:
+     - pushed
+     - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: false
+    projects:
+     - Hacktoberfest2021-1
+     - Hacktoberfest_2021
+     - Hactoberfest2021-1
+     - hacktoberfest2018
+     - HacktoberFest21
+     - open-source-contribution
+     - Hacktoberfest2021
+     - Hacktoberfest2021_beginner
+     - LearnFree
+     - Hactoberfest2021
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  facebook: manoj.sadanala1749
+  hackerrank: manojparasuram_1
+  instagram: man0j.s/
+  # keybase: your_username
+  linkedin: manojsadanala
+  # mastodon: your_username
+  medium: manojparasuram.sadhanala
+  stackoverflow: 17238666
+  telegram: manojparasuram
+  twitter: manoj_parasuram
+  # unsplash: your_username
+  # vk: your_username
+  # website: http://your_website_url
+  # youtube: your_username
+
+topics:
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+  
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png   
+
+  - name: Apple
+    web_url: https://github.com/topics/apple
+    image_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/openmoji/292/apple-logo_f8ff.png
+    
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
+
