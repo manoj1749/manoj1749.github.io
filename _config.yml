@@ -57,20 +57,20 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F800px-Python.svg.png&tbnid=JhwcXFfhDXRh1M&vet=12ahUKEwjqktu2jo_-AhUCj-YKHVpKCR0QMygCegUIARDkAQ..i&imgrefurl=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&docid=k36Oe0TGOvdiNM&w=800&h=800&q=pyhton%20image&client=safari&ved=2ahUKEwjqktu2jo_-AhUCj-YKHVpKCR0QMygCegUIARDkAQ
+# topics:
+#   - name: Python
+#     web_url: https://github.com/topics/python
+#     image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F800px-Python.svg.png&tbnid=JhwcXFfhDXRh1M&vet=12ahUKEwjqktu2jo_-AhUCj-YKHVpKCR0QMygCegUIARDkAQ..i&imgrefurl=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&docid=k36Oe0TGOvdiNM&w=800&h=800&q=pyhton%20image&client=safari&ved=2ahUKEwjqktu2jo_-AhUCj-YKHVpKCR0QMygCegUIARDkAQ
     
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAL5GRJVFUbrqLgTKs3qvoiGiZDvJHXkB_pzHwyussmGX%3Ds900-c-k-c0x00ffffff-no-rj&tbnid=4ejwnyS4dx9D0M&vet=12ahUKEwjZgJbEjo_-AhXI2jgGHRWjClsQMygBegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwXdFgeE9KYzlDdR7TG9cMw&docid=KbZYnuhWCt-SoM&w=900&h=900&q=flutter%20image&client=safari&ved=2ahUKEwjZgJbEjo_-AhXI2jgGHRWjClsQMygBegUIARDdAQ
+#   - name: Flutter
+#     web_url: https://github.com/topics/flutter
+#     image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2Fytc%2FAL5GRJVFUbrqLgTKs3qvoiGiZDvJHXkB_pzHwyussmGX%3Ds900-c-k-c0x00ffffff-no-rj&tbnid=4ejwnyS4dx9D0M&vet=12ahUKEwjZgJbEjo_-AhXI2jgGHRWjClsQMygBegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwXdFgeE9KYzlDdR7TG9cMw&docid=KbZYnuhWCt-SoM&w=900&h=900&q=flutter%20image&client=safari&ved=2ahUKEwjZgJbEjo_-AhXI2jgGHRWjClsQMygBegUIARDdAQ
 
-  - name: ML
-    web_url: https://github.com/topics/ml
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fmachine-learning-flat-icon-colored-sign-from-machine-learning-collection-creative-machine-learning-icon-illustration-web-design-infographics-more_676904-1986.jpg%3Fw%3D2000&tbnid=I2gRQGgNGhRBMM&vet=12ahUKEwiU6P6Qj4_-AhU2ALcAHfZTCD4QMygVegUIARCjAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fmachine-learning-flat-icon-colored-sign-from-machine-learning-collection-creative-machine-learning-icon-illustration-web-design-infographics-more_31578557.htm&docid=RzMSJs9ApDI_ZM&w=2000&h=2000&q=machine%20learning%20images%20icon&client=safari&ved=2ahUKEwiU6P6Qj4_-AhU2ALcAHfZTCD4QMygVegUIARCjAg
+#   - name: ML
+#     web_url: https://github.com/topics/ml
+#     image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fmachine-learning-flat-icon-colored-sign-from-machine-learning-collection-creative-machine-learning-icon-illustration-web-design-infographics-more_676904-1986.jpg%3Fw%3D2000&tbnid=I2gRQGgNGhRBMM&vet=12ahUKEwiU6P6Qj4_-AhU2ALcAHfZTCD4QMygVegUIARCjAg..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fmachine-learning-flat-icon-colored-sign-from-machine-learning-collection-creative-machine-learning-icon-illustration-web-design-infographics-more_31578557.htm&docid=RzMSJs9ApDI_ZM&w=2000&h=2000&q=machine%20learning%20images%20icon&client=safari&ved=2ahUKEwiU6P6Qj4_-AhU2ALcAHfZTCD4QMygVegUIARCjAg
     
-  - name: Android
-    web_url: https://github.com/topics/android
-    image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D8780784658659991&tbnid=nEpAVL64bigNjM&vet=12ahUKEwj8qMWkj4_-AhVVmeYKHagKB7oQMygBegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FAndroidOfficial%2F&docid=DwrEfOadBaopQM&w=857&h=857&q=android%20images&client=safari&ved=2ahUKEwj8qMWkj4_-AhVVmeYKHagKB7oQMygBegUIARDvAQ
+#   - name: Android
+#     web_url: https://github.com/topics/android
+#     image_url: https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D8780784658659991&tbnid=nEpAVL64bigNjM&vet=12ahUKEwj8qMWkj4_-AhVVmeYKHagKB7oQMygBegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FAndroidOfficial%2F&docid=DwrEfOadBaopQM&w=857&h=857&q=android%20images&client=safari&ved=2ahUKEwj8qMWkj4_-AhVVmeYKHagKB7oQMygBegUIARDvAQ
 
