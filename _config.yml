@@ -24,17 +24,14 @@ projects:
   limit: 12
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-     - Hacktoberfest2021-1
-     - Hacktoberfest_2021
-     - Hactoberfest2021-1
-     - hacktoberfest2018
-     - HacktoberFest21
-     - open-source-contribution
-     - Hacktoberfest2021
-     - Hacktoberfest2021_beginner
-     - LearnFree
+     - manoj1749.github.io
+     - manoj1749
+     - pd-120-audio
+     - courier-handling-service
+     - automate-the-boring-stuff-with-python
+     - amfoss-tasks
      - Hactoberfest2021
 
 social_media:
