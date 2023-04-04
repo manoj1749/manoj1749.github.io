@@ -21,10 +21,10 @@ projects:
   sort_by options:
      - pushed
      - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
      - Hacktoberfest2021-1
      - Hacktoberfest_2021
